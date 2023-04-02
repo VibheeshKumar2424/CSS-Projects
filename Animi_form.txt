@@ -1,0 +1,35 @@
+anime forms
+
+
+  Anime-Name
+
+
+
+
+  ANIMI-(ORIGIN-COUNTRY)
+
+
+
+
+   No.of.Episodes
+
+
+
+
+  YOUR RATING
+
+
+
+
+  AWARDS
+
+
+
+
+  DESCRIPTION ABOUT THE ANIMI
+
+
+
+
+   submit
+

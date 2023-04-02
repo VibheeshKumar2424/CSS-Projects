@@ -1,0 +1,22 @@
+Rocket around
+Earth
+Departure country
+India
+
+no of travellers
+
+  enter number of travellers
+
+
+Your Email
+
+  default
+
+
+
+Do you wanna rent a space suit
+
+Yes,Please
+                               No,I
+have my own
+
